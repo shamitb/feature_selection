@@ -1,4 +1,4 @@
-# feature_selection
+# Feature Selection for Machine Learning
 Python Methods for Feature Selection
 
 ----------------------------
